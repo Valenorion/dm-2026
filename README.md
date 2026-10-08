@@ -5,9 +5,9 @@ Repositori ini dibuat sebagai jurnal pembelajaran, log progres mingguan, dan pen
 > **⚠️ Catatan Hak Cipta:** Repositori ini diatur sebagai **Private** guna mematuhi kebijakan hak cipta dari materi, dataset, dan *grader* milik Coursera. 
 
 ## 👤 Informasi Mahasiswa
-- **Nama:** [Isi Nama Lengkap Kamu]
-- **NIM:** [Isi NIM Kamu]
-- **Program Studi:** Teknik Informatika / Ilmu Komputer
+- **Nama:** Valentio Titan Sugiyarto
+- **NIM:** A11.2024.15676
+- **Program Studi:** Teknik Informatika S1
 - **Mata Kuliah:** Data Mining
 
 ---
