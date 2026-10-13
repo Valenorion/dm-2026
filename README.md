@@ -1,8 +1,8 @@
 # Dokumentasi Pembelajaran Data Mining (dm-2026) 🚀
 
-Repositori ini dibuat sebagai jurnal pembelajaran, log progres mingguan, dan pengumpulan tugas untuk mata kuliah **Data Mining**. Seluruh alur pembelajaran diadaptasi dari modul spesialisasi *Machine Learning* yang ada di platform Coursera dan disesuaikan menjadi 14 pertemuan perkuliahan.
+Repositori ini berisi jurnal progres belajar, catatan, dan dokumentasi kode (*Jupyter Notebook*) untuk mata kuliah **Data Mining**. Seluruh materi mengikuti kurikulum spesialisasi *Machine Learning* dari platform Coursera.
 
-> **⚠️ Catatan Hak Cipta:** Repositori ini diatur sebagai **Private** guna mematuhi kebijakan hak cipta dari materi, dataset, dan *grader* milik Coursera. 
+> **⚠️ Catatan Hak Cipta:** Repositori ini bersifat **Private** untuk mematuhi kebijakan hak cipta Coursera. Dataset asli dari platform tidak diunggah ke repositori ini, hanya file kode eksperimen dan catatan pribadi.
 
 ## 👤 Informasi Mahasiswa
 - **Nama:** Valentio Titan Sugiyarto
@@ -12,38 +12,39 @@ Repositori ini dibuat sebagai jurnal pembelajaran, log progres mingguan, dan pen
 
 ---
 
-## 📈 Jurnal Progres Pembelajaran
+## 📚 Progres Pembelajaran (Coursera Syllabus)
 
-Tabel di bawah ini merupakan peta jalan (*roadmap*) pembelajaran selama 14 pertemuan. Status akan terus di-update seiring dengan diselesaikannya setiap modul.
+Berikut adalah *tracking* penyelesaian modul dari total 6 *Course* yang ada.
 
-| Pertemuan | Fokus Modul (Coursera) | Topik Pembahasan | Status |
-| :---: | :--- | :--- | :---: |
-| **01** | Course 1 (Modul 1-2) | Sejarah AI, Pengambilan, dan Pembersihan Data | ✅ Selesai |
-| **02** | Course 1 (Modul 3) | Exploratory Data Analysis (EDA) & Feature Engineering | ✅ Selesai |
-| **03** | Course 1 (Modul 4-5) | Statistik Inferensial, Hipotesis & Tugas Akhir Course 1 | ✅ Selesai |
-| **04** | Course 2 (Part 1) | Konsep Dasar Regresi & Simple Linear Regression | ⏳ Belum |
-| **05** | Course 2 (Part 2) | Multiple Regression & Evaluasi Model Regresi | ⏳ Belum |
-| **06** | Course 3 (Part 1) | Klasifikasi, Logistic Regression & K-Nearest Neighbors | ⏳ Belum |
-| **07** | Course 3 (Part 2) | Decision Tree, SVM & Evaluasi Model Klasifikasi | ⏳ Belum |
-| **UTS** | **Ujian Tengah Semester** | **Review Materi Pertemuan 1-7** | ⏳ Belum |
-| **08** | Course 4 (Part 1) | Unsupervised Learning: Clustering (K-Means, dll) | ⏳ Belum |
-| **09** | Course 4 (Part 2) | Dimensionality Reduction (PCA) | ⏳ Belum |
-| **10** | Course 5 (Part 1) | Pengantar Neural Networks & Deep Learning | ⏳ Belum |
-| **11** | Course 5 (Part 2) | Lanjutan Deep Learning (Computer Vision / NLP) | ⏳ Belum |
-| **12** | Course 5 (Part 3) | Pengantar Reinforcement Learning | ⏳ Belum |
-| **13** | Course 6 (Part 1) | Capstone Project: Persiapan Data & Modeling Awal | ⏳ Belum |
-| **14** | Course 6 (Part 2) | Capstone Project: Evaluasi Akhir & Penyelesaian | ⏳ Belum |
+### 🟢 Course 1: Selesai
+- [x] **Modul 1:** Sejarah Singkat AI Modern dan Aplikasinya
+- [x] **Modul 2:** Mengambil dan Membersihkan Data
+- [x] **Modul 3:** Analisis Data Eksplorasi dan Rekayasa Fitur
+- [x] **Modul 4:** Statistik Inferensial dan Pengujian Hipotesis
+- [x] **Modul 5:** Tugas Akhir
+
+### ⚪ Course 2: Supervised Machine Learning Regression
+- [ ] *Modul belum didokumentasikan*
+
+### ⚪ Course 3: Supervised Machine Learning Classification
+- [ ] *Modul belum didokumentasikan*
+
+### ⚪ Course 4: Unsupervised Machine Learning
+- [ ] *Modul belum didokumentasikan*
+
+### ⚪ Course 5: Deep Learning and Reinforcement Learning
+- [ ] *Modul belum didokumentasikan*
+
+### ⚪ Course 6: Machine Learning Capstone
+- [ ] *Modul belum didokumentasikan*
 
 ---
 
 ## 📂 Struktur Repositori
 
-Setiap folder pertemuan berisi dokumentasi spesifik untuk minggu tersebut:
+Repositori ini diatur berdasarkan *Course* dan *Modul* agar rapi dan terstruktur:
 
-*   `📁 Pertemuan_XX/`
-    *   `📄 README.md` : Rangkuman materi singkat yang dipelajari pada minggu tersebut.
-    *   `📓 *.ipynb` : *Jupyter Notebook* berisi kode praktik, lab dari Coursera, atau eksperimen mandiri.
-    *   `📁 data/` : (Opsional) Berisi dataset publik yang digunakan untuk eksperimen (jika ada).
-
----
-*Dikelola menggunakan Python, Pandas, Scikit-Learn, dan Jupyter Notebook.*
+- `📁 Course_X/` : Folder utama untuk setiap sub-course.
+  - `📁 Modul_Y_Nama_Modul/` : Folder untuk setiap modul spesifik.
+    - `📄 README.md` : Jurnal mini / rangkuman materi dari modul tersebut.
+    - `📓 *.ipynb` : File kode praktik Python / Jupyter Notebook.
