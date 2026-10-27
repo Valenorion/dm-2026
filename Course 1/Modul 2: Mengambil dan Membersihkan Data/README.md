@@ -15,6 +15,3 @@ Modul ini membahas langkah pertama dan paling krusial dalam *pipeline* Machine L
 ## 🛠️ Library yang Digunakan
 - `sqlite3`: Untuk mengelola koneksi dan *query* ke database SQL lokal.
 - `pandas`: Untuk manipulasi, pembersihan, dan analisis data terstruktur (*DataFrame*).
-
-## 📂 Lampiran File
-- `modul2_data_reading.ipynb` : *Jupyter Notebook* yang berisi implementasi kode untuk membaca data dari *database* SQLite, menjalankan *query*, dan menampilkannya dalam bentuk *DataFrame* berserta parameternya.
