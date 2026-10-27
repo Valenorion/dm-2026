@@ -2,7 +2,6 @@
 
 Repositori ini berisi jurnal progres belajar, catatan, dan dokumentasi kode (*Jupyter Notebook*) untuk mata kuliah **Data Mining**. Seluruh materi mengikuti kurikulum spesialisasi *Machine Learning* dari platform Coursera.
 
-> **⚠️ Catatan Hak Cipta:** Repositori ini bersifat **Private** untuk mematuhi kebijakan hak cipta Coursera. Dataset asli dari platform tidak diunggah ke repositori ini, hanya file kode eksperimen dan catatan pribadi.
 
 ## 👤 Informasi Mahasiswa
 - **Nama:** Valentio Titan Sugiyarto
