@@ -17,6 +17,3 @@ Modul ini berfokus pada dua tahapan analitik inti sebelum membangun model: memah
 - `pandas`: Untuk manipulasi *DataFrame*.
 - `matplotlib` & `seaborn`: Untuk visualisasi data grafis.
 - `scikit-learn` (sklearn.preprocessing): Untuk alat bantu rekayasa fitur seperti *Scaler* dan *Encoder*.
-
-## 📂 Lampiran File
-- `modul3_eda_feature_engineering.ipynb` : *Jupyter Notebook* berisi praktik eksplorasi data, pembuatan grafik visual, dan penerapan teknik *scaling* serta *encoding* pada *dataset*.
