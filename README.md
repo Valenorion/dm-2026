@@ -1,4 +1,4 @@
-# Dokumentasi Pembelajaran Data Mining (dm-2026) 🚀
+# Dokumentasi Pembelajaran Data Mining (dm-2026) 
 
 Repositori ini berisi jurnal progres belajar, catatan, dan dokumentasi kode (*Jupyter Notebook*) untuk mata kuliah **Data Mining**. Seluruh materi mengikuti kurikulum spesialisasi *Machine Learning* dari platform Coursera.
 
