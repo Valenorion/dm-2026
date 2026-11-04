@@ -1,6 +1,6 @@
 # EcoPulse - Modul Klasifikasi Efisiensi Energi (Fitur 2)
 
-Repositori ini berisi progres belajar dan implementasi algoritma Decision Tree untuk mengklasifikasikan status efisiensi energi operasional gedung ke dalam kelas Efisien, Normal, dan Boros. Proyek ini merupakan bagian dari prototipe sistem EcoPulse yang dikembangkan untuk mata kuliah Data Mining 2026 di Universitas Dian Nuswantoro[cite: 5].
+Repositori ini berisi progres belajar dan implementasi algoritma Decision Tree untuk mengklasifikasikan status efisiensi energi operasional gedung ke dalam kelas Efisien, Normal, dan Boros. Proyek ini merupakan bagian dari prototipe sistem EcoPulse yang dikembangkan untuk mata kuliah Data Mining 2026 di Universitas Dian Nuswantoro.
 
 **Tujuan Proyek**
 * Membentuk label kelas efisiensi energi melalui pembagian sepertiga kuantil dari atribut konsumsi absolut.
