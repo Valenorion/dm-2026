@@ -22,11 +22,11 @@ Berikut adalah *tracking* penyelesaian modul dari total 6 *Course* yang ada.
 - [x] **Modul 4:** Statistik Inferensial dan Pengujian Hipotesis
 - [x] **Modul 5:** Tugas Akhir
 
-### ⚪ Course 2: Supervised Machine Learning Regression
-- [ ] *Modul belum didokumentasikan*
+### 🟢 Course 2: Supervised Machine Learning Regression
+- [ ] **
 
-### ⚪ Course 3: Supervised Machine Learning Classification
-- [ ] *Modul belum didokumentasikan*
+### 🟢 Course 3: Supervised Machine Learning Classification
+- [ ] **
 
 ### ⚪ Course 4: Unsupervised Machine Learning
 - [ ] *Modul belum didokumentasikan*
