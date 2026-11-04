@@ -20,4 +20,4 @@ Repositori ini berisi progres belajar dan implementasi algoritma Decision Tree u
 * Serialisasi Model: joblib.
 
 **Arsitektur Modul**
-Model dilatih di lingkungan notebook dan diekspor menggunakan `joblib`. Proses praproses data digabungkan di dalam pipeline `scikit-learn` agar transformasi data konsisten saat model diintegrasikan ke layanan API FastAPI[cite: 12, 14].
+Model dilatih di lingkungan notebook dan diekspor menggunakan `joblib`. Proses praproses data digabungkan di dalam pipeline `scikit-learn` agar transformasi data konsisten saat model diintegrasikan ke layanan API FastAPI.
