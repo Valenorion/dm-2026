@@ -44,11 +44,3 @@ Berikut adalah *tracking* penyelesaian modul dari total 6 *Course* yang ada.
 
 ---
 
-## 📂 Struktur Repositori
-
-Repositori ini diatur berdasarkan *Course* dan *Modul* agar rapi dan terstruktur:
-
-- `📁 Course_X/` : Folder utama untuk setiap sub-course.
-  - `📁 Modul_Y_Nama_Modul/` : Folder untuk setiap modul spesifik.
-    - `📄 README.md` : Jurnal mini / rangkuman materi dari modul tersebut.
-    - `📓 *.ipynb` : File kode praktik Python / Jupyter Notebook.
