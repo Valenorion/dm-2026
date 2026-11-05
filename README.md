@@ -15,7 +15,7 @@ Repositori ini berisi jurnal progres belajar, catatan, dan dokumentasi kode (*Ju
 
 Berikut adalah *tracking* penyelesaian modul dari total 6 *Course* yang ada.
 
-### 🟢 Course 1: Selesai
+### 🟢 Course 1: Exploratory Data Analysis for Machine Learning
 - [x] **Modul 1:** Sejarah Singkat AI Modern dan Aplikasinya
 - [x] **Modul 2:** Mengambil dan Membersihkan Data
 - [x] **Modul 3:** Analisis Data Eksplorasi dan Rekayasa Fitur
@@ -23,7 +23,12 @@ Berikut adalah *tracking* penyelesaian modul dari total 6 *Course* yang ada.
 - [x] **Modul 5:** Tugas Akhir
 
 ### 🟢 Course 2: Supervised Machine Learning Regression
-- [ ] **
+- [x] **Modul 1:** Introduction to Supervised Machine Learning and Linear Regression
+- [x] **Modul 2:** Data Splits dan Polynomial Regression
+- [x] **Modul 3:** Cross Validation
+- [x] **Modul 4:** Bias Variance Trade off and Regularization Techniques: Ridge, LASSO, and Elastic Net
+- [x] **Modul 5:** Regularization Details
+- [x] **Modul 6:** Tugas Akhir
 
 ### 🟢 Course 3: Supervised Machine Learning Classification
 - [ ] **
